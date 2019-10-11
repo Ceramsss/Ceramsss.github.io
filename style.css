@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Neuton&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Arvo&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Volkhov&display=swap');
+
+#sideNav {
+    background: #0C0A3E;
+    height: 200vh;
+    font-family: Lobster
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+    font-size: 16;
+}
+
+h1 {
+    color: #EFE821; 
+    background:#0C0A3E;
+    font-family: Arvo;
+    width: 199e
+    
+}
+h3 {
+    color: black;
+    background: #68C9C4;
+    background-blend-mode: darken
+    width: 211m;
+    font-family: Merriweather
+}
+
+h2 {
+    background:white;
+    color: #0C0A3E
+}
+h5 {
+    color:#FFD131
+}   
+
+h6 {
+    color:#FFD131
+}
+
+.resume-head {
+    padding-top: 2em;
+}
+
+.resume-head {
+    color: blue
+}
+
+#mainContent {
+    background: white ;
+}
+
+#mainContent {
+    padding-left: 21em
+}
+
+img {
+    border-radius: 70%;
+    height: 200;
+    margin-top: 30;
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: white
+}
+
+p1 {
+    font-family: Volkhov;
+}
+
+p2 {
+    font-family: Neuton;
+}
